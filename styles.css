@@ -1,0 +1,16 @@
+body {
+  background-color: #1C3144;
+}
+h1 {
+  color: #FFFFFF;
+}
+h2 {
+  color: #f4f3ee;
+}
+.small-box {
+  display: inline-block;
+  padding: 25px 0 0 50px;
+}
+.big-box{
+  padding: 25px 0 0 50px;
+}
